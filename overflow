@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<htm>
+    <head>
+        <style>
+            div{
+                background-color: aqua;
+                width:200px;
+                height:65px;
+                border:1px solid;
+                overflow: visible;
+            }
+        </style>
+    </head>
+    <h2>Overflow visible</h2>
+    <p> overflow is visible by default:</p>
+    <div>The overflow property specifies what happens if content overflows an element's box.</div>
+</body>
+</html>
