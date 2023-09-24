@@ -1,0 +1,18 @@
+<p>I am the first p</p>
+<style>
+    div p{
+        color:red;
+    }
+</style>
+
+<div class='container'>
+    <p>I am the second p</p>
+    
+    <div>
+        <p>I am the third p</p>
+    </div>
+</div>
+
+<p>I am the last p</p>
+   <p>I am the very last p</p>
+
