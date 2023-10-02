@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8>
+  <meta http-equiv-"X-UA-Compatible" content= "IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">         <title>Flex Box</title>
+  <link rel="stylesheet" href="style.css">                                                                   
+</head>
+
+<body>
+    <div class="f-container"></div>
+    <div class="f-item"></div>
+</body>
+
+
+</html>
+
+.flexcontainer{
+    border:2px solid black;
+    height:45vh;
+    display:flex;
+}
+.flexitem{
+    background-color:pink;
+    border:2px;
+    margin:12px;
+    width:122px;
+    height:122px;
+}
+</style>
+</html>
