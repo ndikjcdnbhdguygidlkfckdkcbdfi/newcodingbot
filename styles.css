@@ -1,0 +1,34 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.flex-container {
+    display: flex;
+    height: 100%;
+    justify-content: space-between;
+    margin-bottom: 20px; 
+}
+
+
+
+.flex-item img {
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+}
+
+.flex-item {
+    flex: 1;
+    height: 100px;
+    background-color: #f1f1f1;
+    position: relative;
+    margin: 10px;
+    margin-right: 10px; 
+}
+
+.button{
+    position: centre;
+    background-color: grey;
+    width:100px;
+}
